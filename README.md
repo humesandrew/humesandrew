@@ -7,9 +7,9 @@
 - I'm always open to collaborate on projects to help me develop my skills. Currently, I am helping two non-profits I volunteer with to make their websites be more accessible for the blind and low-vision.  
 - I have a deep background in technical skills. 
 - :mailbox: How to reach me:    
-  Email: humes.andrew@gmail.com
-  Portfolio: https://andyhumesportfolio.netlify.app/
-   [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andy-humes-72075559/)
+- Email: humes.andrew@gmail.com
+- Portfolio: https://andyhumesportfolio.netlify.app/
+- [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andy-humes-72075559/)
   
 ### :hammer_and_wrench: Languages and Tools 
 <div>
