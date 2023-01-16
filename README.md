@@ -6,6 +6,7 @@ Hi, I'm Andy Humes.
 - Recently completed a Full Stack Coding Bootcamp at the University of Denver. Currently, I am rebuilding projects with new technologies (and new skills!) or devoping new projects to focus on specific tech stacks. 
 - I'm always open to collaborate on projects to help me develop my skills. Currently, I am helping two non-profits I volunteer with to make their websites be more accessible for the blind and low-vision.  
 - I have a deep background in technical skills. 
+
 :mailbox: How to reach me:    
 - Email: humes.andrew@gmail.com
 - Portfolio: https://andyhumesportfolio.netlify.app/
