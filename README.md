@@ -1,17 +1,17 @@
 ![Header](https://github.com/humesandrew/humesandrew/blob/main/img/header.png "Header")
 
 
-### Hi, I'm Andy Humes.
+Hi, I'm Andy Humes.
 - I am a software developer based out of Denver, CO. 
 - Recently completed a Full Stack Coding Bootcamp at the University of Denver. Currently, I am rebuilding projects with new technologies (and new skills!) or devoping new projects to focus on specific tech stacks. 
 - I'm always open to collaborate on projects to help me develop my skills. Currently, I am helping two non-profits I volunteer with to make their websites be more accessible for the blind and low-vision.  
 - I have a deep background in technical skills. 
-- :mailbox: How to reach me:    
+:mailbox: How to reach me:    
 - Email: humes.andrew@gmail.com
 - Portfolio: https://andyhumesportfolio.netlify.app/
 - [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andy-humes-72075559/)
   
-### :hammer_and_wrench: Languages and Tools 
+:hammer_and_wrench: Technical Skills  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
