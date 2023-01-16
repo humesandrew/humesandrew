@@ -1,5 +1,6 @@
+<div id='header' align='center'>
 ![Header](https://github.com/humesandrew/humesandrew/blob/main/img/header.png "Header")
-
+</div>
 
 Hi, I'm Andy Humes.
 - I am a software developer based out of Denver, CO. 
@@ -13,7 +14,7 @@ Hi, I'm Andy Humes.
 - Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andy-humes-72075559/)
   
 :hammer_and_wrench: Technical Skills  
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="60" height="60"/>&nbsp;        
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
