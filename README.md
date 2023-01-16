@@ -1,6 +1,4 @@
-<div id='header' align='center'>
-![Header](https://github.com/humesandrew/humesandrew/blob/main/img/header.png "Header")
-</div>
+<div id='header' align='center'>![Header](https://github.com/humesandrew/humesandrew/blob/main/img/header.png "Header")</div>
 
 Hi, I'm Andy Humes.
 - I am a software developer based out of Denver, CO. 
@@ -25,10 +23,11 @@ Hi, I'm Andy Humes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp; 
-</div>   
+   
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humesandrew&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)   
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=humesandrew&theme=dark&background=000000)](https://git.io/streak-stats) 
+</div>
