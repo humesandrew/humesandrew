@@ -1,4 +1,3 @@
-<div id='header' align='center'>![Header](https://github.com/humesandrew/humesandrew/blob/main/img/header.png "Header")</div>
 
 Hi, I'm Andy Humes.
 
