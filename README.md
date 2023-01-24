@@ -1,7 +1,7 @@
 <div id='header' align='center'>![Header](https://github.com/humesandrew/humesandrew/blob/main/img/header.png "Header")</div>
 
 Hi, I'm Andy Humes.
-<div>[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andy-humes-72075559/)</div>
+:[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andy-humes-72075559/)
 
 - I am a software developer based out of Denver, CO. 
 - Recently completed a Full Stack Coding Bootcamp at the University of Denver. Currently, I am rebuilding projects with new technologies (and new skills!) or developing new projects to focus on specific tech stacks. 
