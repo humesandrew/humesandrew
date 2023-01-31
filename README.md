@@ -38,9 +38,9 @@ Hi, I'm Andy Humes.
 
 :hammer_and_wrench: Projects
 - Brewery Buster 
-  An application that lets you search for breweries in a particular city, and then locate them on a provided map. Belly-Buster is for the beer enthusiast who is a frequent traveler. Built with React and Material UI.
+  - An application that lets you search for breweries in a particular city, and then locate them on a provided map. Belly-Buster is for the beer enthusiast who is a frequent traveler. Built with React and Material UI.
 - The-MERN-Blog
-  This is blog application that uses the MERN stack to sign up users, authenticate them, and allow
+  - This is blog application that uses the MERN stack to sign up users, authenticate them, and allow
 them to see and post blog entries. Built with MongoDB, React, and Material UI
 - Professional Portfolio 
-  My professional portfolio, featuring apps I have been working on, credentials, and contact information. Built using React and Material UI.
+  - My professional portfolio, featuring apps I have been working on, credentials, and contact information. Built using React and Material UI.
