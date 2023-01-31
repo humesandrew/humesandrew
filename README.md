@@ -5,7 +5,7 @@ Hi, I'm Andy Humes.
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andy-humes-72075559/)
 
 - I am a software developer based out of Denver, CO. 
-- Recently completed a Full Stack Coding Bootcamp at the University of Denver. Currently, I am rebuilding projects with new technologies (and new skills!) or developing new projects to focus on specific tech stacks. 
+- Currently, I am rebuilding projects with new technologies (and new skills!) or developing new projects to focus on specific tech stacks. 
 - I'm always open to collaborate on projects to help me develop my skills. Currently, I am helping two non-profits I volunteer with make their websites more accessible for the blind and low-vision.  
 - I have a deep background in technical skills. 
 
