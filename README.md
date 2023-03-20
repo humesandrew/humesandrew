@@ -42,7 +42,7 @@ Hi, I'm Andy Humes.
   - Deployed: https://brewery-buster.netlify.app/
   - Repository: https://github.com/humesandrew/Brewery-Buster/
   
-- Colleg Cooking
+- College Cooking
   -  A MERN-based blog application that allows users to sign up, login, authenticate with JSON Web 
 Tokens (JWT), and post budget-friendly recipes. Built with MongoDB, React, and Material UI.
   - Deployed: https://the-mern-blog-frontend.onrender.com/
