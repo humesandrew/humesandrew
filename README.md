@@ -37,14 +37,14 @@ Hi, I'm Andy Humes.
 </div>
 
 :computer: Projects
-- Brewery Buster 
+- Brewery-Buster 
   - An application that lets you search for breweries in a particular city, and then locate them on a provided map. Belly-Buster is for the beer enthusiast who is a frequent traveler. Built with React and Material UI.
   - Deployed: https://brewery-buster.netlify.app/
   - Repository: https://github.com/humesandrew/Brewery-Buster/
   
-- The-MERN-Blog
-  - This is blog application that uses the MERN stack to sign up users, authenticate them, and allow
-them to see and post blog entries. Built with MongoDB, React, and Material UI.
+- Colleg Cooking
+  -  A MERN-based blog application that allows users to sign up, login, authenticate with JSON Web 
+Tokens (JWT), and post budget-friendly recipes. Built with MongoDB, React, and Material UI.
   - Deployed: https://the-mern-blog-frontend.onrender.com/
   - Repository: https://github.com/humesandrew/The-MERN-Blog-/
   
