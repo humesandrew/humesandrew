@@ -38,7 +38,7 @@ Hi, I'm Andy Humes.
 
 :computer: Projects
 - Brewery-Buster 
-  - An application that lets you search for breweries in a particular city, and then locate them on a provided map. Belly-Buster is for the beer enthusiast who is a frequent traveler. Built with React and Material UI.
+  - An application that lets you search for breweries in a particular city, and then locate them on a provided map. Belly-Buster is for the beer enthusiast who is a frequent traveler. Built with React, Material UI, and the Open Brewery DB API.
   - Deployed: https://brewery-buster.netlify.app/
   - Repository: https://github.com/humesandrew/Brewery-Buster/
   
