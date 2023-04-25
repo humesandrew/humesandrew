@@ -3,6 +3,10 @@ Hi, I'm Andy Humes.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andy-humes-72075559/)
+<div id="views" align="center">
+    <img src="https://komarev.com/ghpvc/?username=humesandrew&style=flat-square&color=red" alt=""/>
+</div>
+
 
 - I am a software developer based out of Denver, CO. 
 - Currently, I am rebuilding projects with new technologies (and new skills!) or developing new projects to focus on specific tech stacks. 
